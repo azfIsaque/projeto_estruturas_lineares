@@ -55,4 +55,4 @@ Certifique-se de ter o **Python 3.10 ou superior** instalado em sua máquina. Os
 **Passo a passo:**
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+   git clone [https://github.com/azfIsaque/projeto_estruturas_lineares.git](https://github.com/azfIsaque/projeto_estruturas_lineares.git)
