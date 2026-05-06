@@ -23,7 +23,7 @@ while True:
                 palavra_removida = pilha.pop()
                 print(f"Palavra removida: {palavra_removida}\n")
             else:
-                print("A pilha está já vazia\n")
+                print("A pilha já está vazia\n")
 
         case "3":
             print(f"Texto atual: {' '.join(pilha)}\n")
