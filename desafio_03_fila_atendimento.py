@@ -23,7 +23,7 @@ while True:
                 atendido = fila.pop(0)
                 print(f"Chamando aluno: {atendido}\n")
             else:
-                print("A fila está já vazia\n")
+                print("A fila está vazia\n")
         
         case "3":
             if fila:
